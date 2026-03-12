@@ -9,7 +9,7 @@
 💻 Backend Developer passionate about building APIs and scalable systems.
 🚀 Currently learning **FastAPI, PostgreSQL, and AI Projects**.
 📚 Improving **Data Structures & Algorithms**.
-🎯 Goal: Become a strong Backend Engineer.
+
 
 ---
 
