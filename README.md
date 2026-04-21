@@ -56,9 +56,13 @@
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
-📧 Email: [aarthisahani8@gmail.com](mailto:aarthisahani8@gmail.com)
+| Info | Details |
+|------|---------|
+| 👩 Name | Aditi |
+| 📧 Email | yourmail@gmail.com |
+| 💬 Message | [Send Mail](mailto:yourmail@gmail.com) |
 
 ⭐ Always learning and building new projects.
 
